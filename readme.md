@@ -12,11 +12,16 @@
     <a href="https://gitlab.com/zetastormy"><img height="30" src="https://img.shields.io/badge/zetastormy-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
   
-----
+---
 
-Hi there 👋,
+### Hi there 👋,
 
 
 I'm ZetaStormy, a fan of the letter Ñ from the spanish language... I also like stuff related to space, technology and Linux (I use Arch BTW).
 
 You can checkout (almost) all my projects on [GitLab](https://gitlab.com/zetastormy) (they aren't worth your time, so please, don't).
+
+## 🌟 Main projects
+
+- [Minecraft server optimization guide](https://zetastormy.notion.site/Optimizaci-n-de-servidores-cf7e1dc4df7846048928f465460dbd5f)
+- [DeluxeHub fork (I really need to change that name)](https://gitlab.com/zetastormy/deluxe-hub)
