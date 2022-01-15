@@ -19,4 +19,4 @@ Hi there 👋,
 
 I'm ZetaStormy, a fan of the letter Ñ from the spanish language... I also like stuff related to space, technology and Linux (I use Arch BTW).
 
-You can checkout all my projects on [GitLab](https://gitlab.com/zetastormy) (they aren't worth your time, so please, don't).
+You can checkout (almost) all my projects on [GitLab](https://gitlab.com/zetastormy) (they aren't worth your time, so please, don't).
