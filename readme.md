@@ -19,9 +19,9 @@
 
 I'm ZetaStormy, a fan of the letter Ñ from the spanish language... I also like stuff related to space, technology and Linux (I use Arch BTW).
 
-You can checkout (almost) all my projects on [GitLab](https://gitlab.com/zetastormy) (they aren't worth your time, so please, don't).
+You can checkout some of my projects on [GitLab](https://gitlab.com/zetastormy) (they aren't worth your time, so please, don't).
 
 ## 🌟 Main projects
 
-- [Minecraft server optimization guide](https://zetastormy.notion.site/Optimizaci-n-de-servidores-cf7e1dc4df7846048928f465460dbd5f)
-- [DeluxeHub fork (I really need to change that name)](https://gitlab.com/zetastormy/deluxe-hub)
+- [Minecraft server optimization guide (based on YouHaveTrouble's one)](https://zetastormy.notion.site/Optimizaci-n-de-servidores-cf7e1dc4df7846048928f465460dbd5f)
+- [A simple DeluxeHub fork (temporary name)](https://gitlab.com/zetastormy/deluxe-hub)
