@@ -23,4 +23,4 @@ I don't know what else I can put here :(
 ## 🌟 Main projects
 
 - [Minecraft server optimization guide (based on YouHaveTrouble's one)](https://zetastormy.notion.site/Optimizaci-n-de-servidores-cf7e1dc4df7846048928f465460dbd5f)
-- [Akropolis - A modern hub solution. Based on DeluxeHub by ItsLewizz.](https://gitlab.com/devblook/akropolis/)
+- [Akropolis - A modern hub solution. Based on DeluxeHub by ItsLewizz.](https://github.com/devblook/akropolis/)
