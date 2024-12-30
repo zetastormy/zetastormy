@@ -11,7 +11,7 @@
 
 ### About me
 
-Hi, I'm Cristóbal Veas, a 19 y.o. from Chile that loves cats and mountain biking more than anything else. Currently studying Civil and Computer Engineering at UACh. I don't have many
+Hi, I'm Cristóbal Veas, a 20 y.o. from Chile that loves cats and mountain biking more than anything else. Currently studying Civil and Computer Engineering at UACh. I don't have many
 projects at the time, but I hope that will improve in the future.
 
 ### Main projects
